@@ -1,2 +1,3 @@
-# mediawiki-extensions-FilterSpecialPages
-Description and Installation instruction can be found here: https://www.mediawiki.org/wiki/Extension:FilterSpecialPages
+# Repo has moved
+
+Development continues at https://gerrit.wikimedia.org/r/#/admin/projects/mediawiki/extensions/FilterSpecialPages

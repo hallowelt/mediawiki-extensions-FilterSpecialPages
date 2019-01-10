@@ -1,7 +1,0 @@
-{
-	"name": "hallowelt/filter-special-pages",
-	"type": "mediawiki-extension",
-	"require": {
-		"composer/installers": "~1.0"
-	}
-}
